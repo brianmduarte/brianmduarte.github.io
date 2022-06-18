@@ -36,7 +36,7 @@ nav h2 {
     background-clip: text;
     -webkit-background-clip:text;
     color: transparent;
-    font-size: 45px;
+    font-size: 60px;
     font-family: 'Satisfy', cursive;
     cursor: pointer;
     letter-spacing: 2px;
@@ -56,7 +56,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: rgb(8, 228, 209);
+    color: rgb(228, 8, 199);
     transform: scale(1.2);
 }
 
